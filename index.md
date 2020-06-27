@@ -15,9 +15,6 @@
       <tr class="odd">
         <td>2</td>
         <td><a href="https://techcrunch.com/image-sitemap-index-3.xml">https://techcrunch.com/image-sitemap-index-3.xml</a></td><td>2020-06-26T10:00:00Z</td>
-      <tr class="odd">
-        <td>3</td>
-        <td><a href="https://techcrunch.com/image-sitemap-index-3.xml">https://techcrunch.com/image-sitemap-index-3.xml</a></td><td>2020-06-26T10:00:00Z</td>
       </tr>
     </tbody>
   </table>
