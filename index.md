@@ -19,6 +19,3 @@
     </tbody>
   </table>
 </div>
----
-permalink: /sitemap.xml/
----
